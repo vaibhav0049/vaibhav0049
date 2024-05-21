@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vaibhav Yadav</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://tse1.mm.bing.net/th?id=OIP.zTf6ScmDrJBd8AFv1bai7gHaFj&pid=Api&P=0&h=180">
+<img align="right" alt="Coding" width="400" src="[https://tse1.mm.bing.net/th?id=OIP.zTf6ScmDrJBd8AFv1bai7gHaFj&pid=Api&P=0&h=180](https://media1.tenor.com/images/cd37fa49c983ac905df0016fd5b6a2ee/tenor.gif?itemid=13165216)">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vaibhav0049&label=Profile%20views&color=0e75b6&style=flat" alt="vaibhav0049" /> </p>
@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning **React Native**
 
 - 💬 Ask me about **MERN**
-
+  
 - 📫 How to reach me **kumar.vaibhav2004@gmail.com**
 
 
